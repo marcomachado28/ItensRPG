@@ -27,8 +27,5 @@ Em campanhas de RPG de mesa ou jogos eletrônicos, o controle de inventário, pr
 
 ## Como Compilar e Rodar a Aplicação (CLI)
 
-Certifique-se de ter o **Java 21** instalado. Abra o terminal na pasta raiz do projeto (`demo`) e execute os comandos abaixo:
-
-1. **Limpar e Compilar o Projeto:**
-   ```powershell
+Abra o terminal na pasta raiz do projeto (`demo`) e execute os comandos abaixo:
    .\mvnw.cmd clean compile
